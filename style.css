@@ -1,0 +1,43 @@
+
+body{
+    background-color: rgb(216, 81, 110);
+}
+.logo{
+    margin-left: 100px;
+        
+}
+a{
+    display: inline;
+    text-decoration: none;
+    margin-right:30px ;
+    color: black;
+    background-color: red;
+    border: 3px solid black;
+    border-radius: 8px;
+    padding: 8px;
+    font-size: 20px;
+
+}
+a:hover{
+    display: inline;
+    text-decoration: none;
+    margin-right:30px ;
+    color: red;
+    background-color: black;
+    border: 3px solid red;
+    border-radius: 8px;
+    padding: 8px;
+    font-size: 20px;
+    
+}
+.nav{
+    margin-left: 400px;
+    margin-top: -200px;
+    
+
+
+}
+.marge{
+    margin-top: 210px ;
+    margin-left: 100px;
+}
